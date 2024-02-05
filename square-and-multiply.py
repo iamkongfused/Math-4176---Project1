@@ -3,7 +3,7 @@ Project #1:
 This program computes x^b mod n using the Square and Multiply Algorithm.
 x = input plaintext number
 
-Authors: Caleb Kong, Harrison Bui
+Authors: Caleb Kong, Harrison Bui, Tide Adewunmi, Bobby Whitehead
 Date: February 2, 2024
 Course: MATH 4176
 """
